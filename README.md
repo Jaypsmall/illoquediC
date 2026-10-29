@@ -1,8 +1,8 @@
 <h1 align="center">¡Qué pasa, bro! 👋 Bienvenido a mi perfil secundario</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=illoquediC&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/illoquediC?label=Seguidores&style=flat-square&color=orange" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=illoquediC&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/illoquediC?label=Seguidores&style=flat&color=orange" alt="Followers" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=illoquediC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="illoquediC's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=illoquediC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="illoquediC GitHub stats" />
 </p>
 
 <p align="center">
