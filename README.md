@@ -41,3 +41,5 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=illoquediC&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
+
+![Stats de illoquediC](./assets/stats1.svg)
