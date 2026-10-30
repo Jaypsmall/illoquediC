@@ -17,7 +17,7 @@ bars = ax.barh(labels, values, color='#58a6ff', edgecolor='#30363d')
 
 # Personalizar el diseño para que quede limpio y estético
 ax.set_xlabel('Cantidad', color='#c9d1d9', fontsize=10)
-ax.set_title('Estadísticas de Actividad - Illoquedi', color='#f0f6fc', fontsize=12, fontweight='bold')
+ax.set_title('Estadísticas de Actividad - IlloquediC', color='#f0f6fc', fontsize=12, fontweight='bold')
 ax.tick_params(colors='#c9d1d9', which='both')
 
 # Quitar los bordes innecesarios (spines)
