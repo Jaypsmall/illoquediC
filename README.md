@@ -43,7 +43,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <br><br>
 <table align="center" cellspacing="4" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
+<td align="center" bgcolor="#FFD600" style="border: 1px solid #FFD600; background-color: #FFD600; padding: 2px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="80" alt="CpuTemp">
 </a>
