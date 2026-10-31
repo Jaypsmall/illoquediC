@@ -15,7 +15,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 # 🛠️ Tecnologías y Herramientas
 
-<p align="center">
+<p align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;" cellspacing="5" cellpadding="0">
   <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" /></a> &nbsp;&nbsp;
   <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter" /></a> &nbsp;&nbsp;
   <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="Dart" /></a> &nbsp;&nbsp;
@@ -43,7 +43,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <br><br>
 <table align="center" cellspacing="4" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#FFD600" style="border: 1px solid #FFD600; background-color: #FFD600; padding: 2px;">
+<td align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
 <a href="https://github.com/Jaypsmall/CpuTemp">
 <img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="80" alt="CpuTemp">
 </a>
@@ -132,7 +132,8 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <img src="https://github.com/user-attachments/assets/713df46d-e48d-431e-b4d5-3bce9cbd1583" width="80" alt="Resonantia">
 </a>
 </td>
-<td align="center">&nbsp;</td>
+<td align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
+&nbsp;</td>
 </tr>
 </table>
 </td>
@@ -145,9 +146,10 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 # 📊 Estadísticas de GitHub
 
-<p align="center">
-  
-![Estadísticas de illoquediC](./assets/stats.svg)
+<p align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
+  <img ![Estadísticas de illoquediC](./assets/stats.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=illoquediC&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  
 ![Stats de illoquediC](./assets/stats1.svg)
+
 </p>
